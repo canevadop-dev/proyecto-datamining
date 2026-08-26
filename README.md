@@ -11,13 +11,15 @@ El flujo realiza una integración multinivel en cascada:
 ---
 
 ## Fuentes de Datos
-Datos abiertos del portal nacional (`datosabiertos.gob.pe`) y MINEDU (ESCALE):
-* `Padron.dbf`: Catálogo nacional de Instituciones Educativas (tabla puente geográfica).
-* `Matriculación y Trayectoria Estudiantil 2023.csv`: Microdatos de matrícula, aprobados, desaprobados y retirados por colegio.
-* `Tasa y número de desertores en Educación Primaria 2023-2024.csv`: Deserción de cohorte por distrito en primaria.
-* `Tasa y número de desertores en Educación Secundaria 2023-2024.csv`: Deserción de cohorte por distrito en secundaria.
+Debido al límite de tamaño de archivos en GitHub (>25 MB), los datasets completos se encuentran alojados en el siguiente enlace de acceso público:
 
----
+🔗 **[Descargar datasets completos desde Google Drive](https://drive.google.com/drive/folders/1jkxgIUl6A-DmUvLk2mRkgOxk4cTCXd9x?usp=sharing)**
+
+### Detalle de archivos:
+* `Padron.dbf`: Catálogo oficial de IIEE (descargar desde el enlace de Drive).
+* `Matriculación y Trayectoria Estudiantil 2023.csv`: Microdatos de matrícula (descargar desde el enlace de Drive).
+* `Tasa y número de desertores en Educación Primaria 2023-2024.csv`: Incluido en este repositorio.
+* `Tasa y número de desertores en Educación Secundaria 2023-2024.csv`: Incluido en este repositorio.
 
 ## Instrucciones de Ejecución
 
