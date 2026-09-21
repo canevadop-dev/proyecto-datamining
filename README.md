@@ -1,5 +1,5 @@
 # proyecto-datamining
-# Análisis e Integración de Datos: Deserción y Trayectoria Educativa en el Perú (2023–2024)
+# Segmentación
 
 ## Descripción del Proyecto
 Este proyecto integra cuatro fuentes públicas oficiales del Ministerio de Educación del Perú (MINEDU) para analizar la deserción escolar a nivel distrital y evaluar su agravamiento durante la transición de Educación Primaria a Educación Secundaria en el periodo 2023–2024.
