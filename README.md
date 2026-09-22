@@ -1,8 +1,10 @@
 # proyecto-datamining
-# Segmentación
+# Segmentación de distritos del Perú según movilidad y salida escolar en primaria y secundaria (2023-2024)
 
 ## Descripción del Proyecto
 Este proyecto integra cuatro fuentes públicas oficiales del Ministerio de Educación del Perú (MINEDU) para analizar la deserción escolar a nivel distrital y evaluar su agravamiento durante la transición de Educación Primaria a Educación Secundaria en el periodo 2023–2024.
+## Problema
+En el Perú, la pérdida de estudiantes del sistema escolar (2023–2024) no ocurre por igual en todo el territorio: mientras los promedios globales muestran estabilidad, en realidad ocultan brechas severas en distritos vulnerables donde muchos alumnos dejan de matricularse de un año a otro. Dado que los registros oficiales solo contabiliza la salida interanual sin registrar los motivos detrás de este corte de matrícula, y que la información está fragmentada entre escuelas y distritos, a las autoridades locales les resulta difícil identificar a tiempo qué distritos concentran la mayor fuga para priorizar acciones de retención.
 
 El flujo realiza una integración multinivel en cascada:
 1. **Nivel Escuela:** Empareja la matrícula y trayectoria 2023 con el catálogo del Padrón de IIEE para obtener la localización distrital (UBIGEO).
