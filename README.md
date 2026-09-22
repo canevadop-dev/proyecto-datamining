@@ -6,6 +6,9 @@ Este proyecto integra cuatro fuentes públicas oficiales del Ministerio de Educa
 ## Problema
 En el Perú, la pérdida de estudiantes del sistema escolar (2023–2024) no ocurre por igual en todo el territorio: mientras los promedios globales muestran estabilidad, en realidad ocultan brechas severas en distritos vulnerables donde muchos alumnos dejan de matricularse de un año a otro. Dado que los registros oficiales solo contabiliza la salida interanual sin registrar los motivos detrás de este corte de matrícula, y que la información está fragmentada entre escuelas y distritos, a las autoridades locales les resulta difícil identificar a tiempo qué distritos concentran la mayor fuga para priorizar acciones de retención.
 
+## Unidad de análisis
+Distrito por nivel educativo (o distrito-nivel). Cada registro representa el comportamiento educativo de un distrito específico en un nivel formativo determinado (Primaria o Secundaria). 
+
 El flujo realiza una integración multinivel en cascada:
 1. **Nivel Escuela:** Empareja la matrícula y trayectoria 2023 con el catálogo del Padrón de IIEE para obtener la localización distrital (UBIGEO).
 2. **Nivel Distrito:** Agrega los indicadores de matrícula y los cruza con los registros oficiales de deserción de cohorte (Primaria y Secundaria).
