@@ -2,9 +2,9 @@
 # Segmentación de distritos del Perú según movilidad y salida escolar en primaria y secundaria (2023-2024)
 
 ## Descripción del Proyecto
-Este proyecto integra cuatro fuentes públicas oficiales del Ministerio de Educación del Perú (MINEDU) para analizar la deserción escolar a nivel distrital y evaluar su agravamiento durante la transición de Educación Primaria a Educación Secundaria en el periodo 2023–2024.
+Este proyecto integra cuatro fuentes públicas oficiales del Ministerio de Educación del Perú (MINEDU) para analizar la salida escolar a nivel distrital y evaluar su agravamiento durante la transición de Educación Primaria a Educación Secundaria en el periodo 2023–2024.
 ## Problema
-En el Perú, la pérdida de estudiantes del sistema escolar (2023–2024) no ocurre por igual en todo el territorio: mientras los promedios globales muestran estabilidad, en realidad ocultan brechas severas en distritos vulnerables donde muchos alumnos dejan de matricularse de un año a otro. Dado que los registros oficiales solo contabiliza la salida interanual sin registrar los motivos detrás de este corte de matrícula, y que la información está fragmentada entre escuelas y distritos, a las autoridades locales les resulta difícil identificar a tiempo qué distritos concentran la mayor fuga para priorizar acciones de retención.
+Cada año, algunos estudiantes no vuelven a matricularse en ninguna escuela, lo que interrumpe su educación básica. Esto afecta de forma desigual a los distritos: el promedio nacional parece estable, pero oculta distritos donde la salida es mucho mayor. Hoy no es claro qué tipos de distritos tienen más salida, dónde se ubican ni si el problema pesa más en primaria o en secundaria, lo que dificulta decidir dónde intervenir primero.
 
 ## Unidad de análisis
 Distrito por nivel educativo (o distrito-nivel). Cada registro representa el comportamiento educativo de un distrito específico en un nivel formativo determinado (Primaria o Secundaria). 
