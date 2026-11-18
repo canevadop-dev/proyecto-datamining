@@ -33,7 +33,7 @@ Los datos provienen de repositorios públicos oficiales del Ministerio de Educac
 ## Instrucciones de Ejecución
 
 ### Opción 1: Ejecutar en Google Colab
-1. Subir el archivo `notebooks/Primera_entrega_nueva_fuente.ipynb` a Google Colab.
+1. Subir el archivo `notebooks/Hito4_DataMining.ipynb` a Google Colab.
 2. Cargar los 4 archivos de datos en el entorno `/content/`.
 3. Ejecutar las celdas en orden secuencial (`Entorno de ejecución` > `Ejecutar todo`).
 
