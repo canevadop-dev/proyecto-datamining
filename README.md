@@ -1,5 +1,5 @@
 # proyecto-datamining
-# Segmentación de distritos del Perú según movilidad y salida escolar en primaria y secundaria (2023-2024)
+# Distritos del Perú con mayor salida escolar: un análisis de agrupamiento (2023–2024)
 
 ## Descripción del Proyecto
 Este proyecto integra cuatro fuentes públicas oficiales del Ministerio de Educación del Perú (MINEDU) para analizar la salida escolar a nivel distrital y evaluar su agravamiento durante la transición de Educación Primaria a Educación Secundaria en el periodo 2023–2024.
